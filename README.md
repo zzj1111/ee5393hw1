@@ -2,7 +2,7 @@
 
 University of Minnesota, Spring 2026
 
-Student Zijian Zhang, ID 6074131
+Student Zijian Zhang
 
 ## Structure
 
