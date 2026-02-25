@@ -35,4 +35,4 @@ python3 hw1_problem3.py
 
 ## AI Disclosure
 
-All code and the written report were generated with the assistance of Claude (AI). See the PDF report for detailed per-problem AI disclosure statements.
+All code were generated with the assistance of Claude (AI). See the PDF report for detailed per-problem AI disclosure statements.
