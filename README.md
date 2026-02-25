@@ -1,6 +1,8 @@
 # EE 5393 Homework #1 — Circuits, Computation, and Biology
 
-University of Minnesota, Winter 2026
+University of Minnesota, Spring 2026
+
+Student Zijian Zhang, ID 6074131
 
 ## Structure
 
